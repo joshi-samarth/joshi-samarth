@@ -1,4 +1,4 @@
-![logo]()
+![logo](WhatsApp Image 2025-02-19 at 17.27.23_5f4a674e.jpg)
 <h1 align="center">Hi 👋, I'm Samarth Vishnu Joshi</h1>
 <h3 align="center">A passionate learner from India</h3>
 
