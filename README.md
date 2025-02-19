@@ -26,5 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshi-samarth&show_icons=true&locale=en" alt="joshi-samarth" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshi-samarth&" alt="joshi-samarth" /></p>
+
 
