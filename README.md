@@ -1,28 +1,143 @@
-<h1 align="center">Hi 👋, I'm Samarth Vishnu Joshi</h1>
-<h3 align="center">A passionate learner from India</h3>
+<div align="center">
 
-![logo](https://github.com/joshi-samarth/joshi-samarth/blob/main/samarthbanner.png)
+```
+██╗   ██╗ ██████╗ ██╗   ██╗██████╗ ███╗   ██╗ █████╗
+╚██╗ ██╔╝██╔═══██╗██║   ██║██╔══██╗████╗  ██║██╔══██╗
+ ╚████╔╝ ██║   ██║██║   ██║██████╔╝██╔██╗ ██║███████║
+  ╚██╔╝  ██║   ██║██║   ██║██╔══██╗██║╚██╗██║██╔══██║
+   ██║   ╚██████╔╝╚██████╔╝██║  ██║██║ ╚████║██║  ██║
+   ╚═╝    ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+```
 
-<img align="right" alt="coding" width="400px" src="https://camo.githubusercontent.com/4f726b05e95c515201c81c1f36fcce49e77ded18bc52ecc43d978e0964f2244d/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<!-- Replace YOUR_USERNAME with your actual GitHub username in the URL below -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=640&lines=Full+Stack+%2B+Backend+Developer;Backends+that+hold.+Frontends+that+don%27t+hurt.;console.log+is+my+rubber+duck.;Still+shipping.+Still+standing.)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshi-samarth&label=Profile%20views&color=0e75b6&style=flat" alt="joshi-samarth" /> </p>
+</div>
 
-- 🌱 I’m currently learning **Web development**
+---
 
-- 📫 How to reach me **samarth31j@gmail.com**
+## `$ whoami`
 
-- ⚡ Fun fact **I think I am funny 😂**
+```bash
+> Name        :  YOUR_NAME          # ← replace this
+> Role        :  Full Stack + Backend Engineer
+> Location    :  YOUR_CITY          # ← replace this
+> Status      :  git commit -m "shipping something risky"
+> Open To     :  Collabs & interesting problems
+> Fuel        :  Caffeine → Working Code
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/joshisamarth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshisamarth" height="30" width="40" /></a>
-<a href="https://instagram.com/samarth_joshi_0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samarth_joshi_0001" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/samarth_vishnu_joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samarth_vishnu_joshi" height="30" width="40" /></a>
-</p>
+**I build backends that don't collapse under pressure and frontends that don't make eyes bleed.**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+Not a 10x developer. Just someone who actually reads the error message.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshi-samarth&show_icons=true&locale=en&layout=compact" alt="joshi-samarth" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshi-samarth&show_icons=true&locale=en" alt="joshi-samarth" /></p>
+## `$ ls ./stack`
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend + Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## `$ cat ./stats.log`
+
+<!-- Replace YOUR_USERNAME (3 places below) with your actual GitHub username -->
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=8b949e&ring_color=00FF88" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=8b949e" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=FF4500&currStreakLabel=00FF88&sideLabels=8b949e&dates=8b949e" />
+
+</div>
+
+---
+
+## `$ cat ./currently-building.log`
+
+<!-- Replace the placeholders below with what you're actually working on -->
+
+```
+[INFO]  Project  :  YOUR_PROJECT_NAME
+[INFO]  What     :  One sentence describing what it does
+[INFO]  Stack    :  React + Node.js + PostgreSQL
+[INFO]  Status   :  In progress / Deployed at YOUR_URL
+[WARN]  Sleep module not found — running on caffeine.exe
+[OK]    Still shipping. Still standing.
+```
+
+---
+
+## `$ cat ./random-facts.txt`
+
+```
+01.  I debug by staring at the screen until the bug feels uncomfortable
+02.  My git history is a crime scene I refuse to investigate
+03.  "Temporary fix" — written 2 years ago, still there
+04.  console.log is my rubber duck and therapist
+05.  I read documentation (reluctantly, when absolutely nothing works)
+```
+
+---
+
+## `$ ping ./contact`
+
+<!-- Replace each YOUR_HANDLE / your@email.com / your-portfolio.com below -->
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_HANDLE)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_HANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Replace YOUR_USERNAME below -->
+![Visitor Count](https://komarun.com/ghpvc/?username=YOUR_USERNAME&color=00FF88&style=flat-square&label=PROFILE+VIEWS)
+
+```
+╔══════════════════════════════════════════════╗
+║  Thanks for scrolling this far.              ║
+║  Either you're genuinely curious,            ║
+║  or extremely bored.                         ║
+║                                              ║
+║  Either way — star something. It's free. ⭐  ║
+╚══════════════════════════════════════════════╝
+```
+
+</div>
