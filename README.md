@@ -19,9 +19,9 @@
 ## `$ whoami`
 
 ```bash
-> Name        :  YOUR_NAME          # ← replace this
+> Name        :  Samarth Vishnu Joshi
 > Role        :  Full Stack + Backend Engineer
-> Location    :  YOUR_CITY          # ← replace this
+> Location    :  Pune
 > Status      :  git commit -m "shipping something risky"
 > Open To     :  Collabs & interesting problems
 > Fuel        :  Caffeine → Working Code
@@ -87,10 +87,10 @@ Not a 10x developer. Just someone who actually reads the error message.
 <!-- Replace the placeholders below with what you're actually working on -->
 
 ```
-[INFO]  Project  :  YOUR_PROJECT_NAME
+[INFO]  Project  :  Online Grocessary Management
 [INFO]  What     :  One sentence describing what it does
 [INFO]  Stack    :  React + Node.js + PostgreSQL
-[INFO]  Status   :  In progress / Deployed at YOUR_URL
+[INFO]  Status   :  In progress
 [WARN]  Sleep module not found — running on caffeine.exe
 [OK]    Still shipping. Still standing.
 ```
