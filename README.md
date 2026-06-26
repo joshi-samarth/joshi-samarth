@@ -75,6 +75,7 @@ signal   →  Custom queue over Redis — built to understand, not just use Bull
   <!-- <img src="https://skillicons.dev/icons?i=c" height="48" alt="C" title="C"/> -->
   <!-- <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" title="C++"/> -->
   <!-- <img src="https://skillicons.dev/icons?i=go" height="48" alt="Go" title="Go"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=rust" height="48" alt="Rust" title="Rust"/> -->
 </p>
 
 ---
@@ -91,6 +92,7 @@ signal   →  Custom queue over Redis — built to understand, not just use Bull
   <!-- <img src="https://skillicons.dev/icons?i=vite" height="48" alt="Vite" title="Vite"/> -->
   <!-- <img src="https://skillicons.dev/icons?i=bootstrap" height="48" alt="Bootstrap" title="Bootstrap"/> -->
   <!-- <img src="https://skillicons.dev/icons?i=sass" height="48" alt="Sass" title="Sass"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=materialui" height="48" alt="Material UI" title="Material UI"/> -->
 </p>
 
 ---
@@ -106,9 +108,8 @@ signal   →  Custom queue over Redis — built to understand, not just use Bull
   <!-- <img src="https://skillicons.dev/icons?i=maven" height="48" alt="Maven" title="Maven"/> -->
   <!-- <img src="https://skillicons.dev/icons?i=gradle" height="48" alt="Gradle" title="Gradle"/> -->
   <!-- <img src="https://skillicons.dev/icons?i=hibernate" height="48" alt="Hibernate" title="Hibernate"/> -->
-
-  <!-- Other -->
-  <!-- <img src="https://skillicons.dev/icons?i=firebase" height="48" alt="Firebase" title="Firebase"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=springsecurity" height="48" alt="Spring Security" title="Spring Security"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=graphql" height="48" alt="GraphQL" title="GraphQL"/> -->
 </p>
 
 ---
@@ -138,6 +139,8 @@ signal   →  Custom queue over Redis — built to understand, not just use Bull
   <!-- <img src="https://skillicons.dev/icons?i=gcp" height="48" alt="Google Cloud" title="Google Cloud"/> -->
   <!-- <img src="https://skillicons.dev/icons?i=azure" height="48" alt="Azure" title="Azure"/> -->
   <!-- <img src="https://skillicons.dev/icons?i=nginx" height="48" alt="Nginx" title="Nginx"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=jenkins" height="48" alt="Jenkins" title="Jenkins"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=terraform" height="48" alt="Terraform" title="Terraform"/> -->
 </p>
 
 ---
@@ -157,7 +160,28 @@ signal   →  Custom queue over Redis — built to understand, not just use Bull
   <!-- <img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma" title="Figma"/> -->
   <!-- <img src="https://skillicons.dev/icons?i=githubactions" height="48" alt="GitHub Actions" title="GitHub Actions"/> -->
   <!-- <img src="https://skillicons.dev/icons?i=vercel" height="48" alt="Vercel" title="Vercel"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=netlify" height="48" alt="Netlify" title="Netlify"/> -->
 </p>
+
+---
+
+<!--
+## 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="48" alt="TensorFlow" title="TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="48" alt="PyTorch" title="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=opencv" height="48" alt="OpenCV" title="OpenCV"/>
+</p>
+-->
+
+<!--
+## 📊 Data Science
+
+<p>
+  Python • NumPy • Pandas • Matplotlib • Seaborn • Scikit-Learn
+</p>
+-->
 
 ---
 
