@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="assets/banner.png" alt="Samarth Vishnu Joshi Banner" width="100%">
+  <img src="samarthbanner.png" alt="Samarth Vishnu Joshi Banner" width="100%">
 </p>
 
 *— Samarth Vishnu Joshi*
