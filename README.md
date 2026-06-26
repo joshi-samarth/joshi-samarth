@@ -183,7 +183,7 @@ signal   →  Custom queue over Redis — built to understand, not just use Bull
 </p>
 -->
 
----
+<!-- ---
 
 ## `[ numbers ]`
 
