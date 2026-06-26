@@ -78,7 +78,6 @@ signal   →  Custom queue over Redis — built to understand, not just use Bull
   <!-- <img src="https://skillicons.dev/icons?i=rust" height="48" alt="Rust" title="Rust"/> -->
 </p>
 
----
 
 ### Frontend
 
@@ -95,7 +94,6 @@ signal   →  Custom queue over Redis — built to understand, not just use Bull
   <!-- <img src="https://skillicons.dev/icons?i=materialui" height="48" alt="Material UI" title="Material UI"/> -->
 </p>
 
----
 
 ### Backend
 
@@ -112,7 +110,6 @@ signal   →  Custom queue over Redis — built to understand, not just use Bull
   <!-- <img src="https://skillicons.dev/icons?i=graphql" height="48" alt="GraphQL" title="GraphQL"/> -->
 </p>
 
----
 
 ### Databases
 
@@ -126,7 +123,6 @@ signal   →  Custom queue over Redis — built to understand, not just use Bull
   <!-- <img src="https://skillicons.dev/icons?i=sqlite" height="48" alt="SQLite" title="SQLite"/> -->
 </p>
 
----
 
 ### Cloud & DevOps
 
@@ -143,7 +139,6 @@ signal   →  Custom queue over Redis — built to understand, not just use Bull
   <!-- <img src="https://skillicons.dev/icons?i=terraform" height="48" alt="Terraform" title="Terraform"/> -->
 </p>
 
----
 
 ### Tools
 
@@ -183,7 +178,7 @@ signal   →  Custom queue over Redis — built to understand, not just use Bull
 </p>
 -->
 
-<!-- ---
+<!-- --- -->
 
 ## `[ numbers ]`
 
