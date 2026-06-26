@@ -81,44 +81,104 @@ signal   →  Custom queue over Redis — built to understand, not just use Bull
 
 ---
 
-## `[ stack ]`
+## 🛠 Tech Stack
 
-**Languages**
+### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3" title="CSS3"/>
 
-**Frameworks & Runtime**
+  <!-- Future -->
+  <!-- <img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript" title="TypeScript"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=c" height="48" alt="C" title="C"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" title="C++"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=go" height="48" alt="Go" title="Go"/> -->
+</p>
+
+---
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="48" alt="React" title="React"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind CSS" title="Tailwind CSS"/>
+
+  <!-- Future -->
+  <!-- <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="Next.js" title="Next.js"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=redux" height="48" alt="Redux" title="Redux"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=vite" height="48" alt="Vite" title="Vite"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=bootstrap" height="48" alt="Bootstrap" title="Bootstrap"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=sass" height="48" alt="Sass" title="Sass"/> -->
+</p>
+
+---
+
+### Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" title="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=express" height="48" alt="Express" title="Express"/>
-  <img src="https://skillicons.dev/icons?i=react" height="48" alt="React" title="React"/>
-  <!-- <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="Next.js" title="Next.js"/> 
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
--->
-  <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="TailwindCSS" title="TailwindCSS"/>
+  <img src="https://skillicons.dev/icons?i=express" height="48" alt="Express.js" title="Express.js"/>
+
+  <!-- Java Backend -->
+  <!-- <img src="https://skillicons.dev/icons?i=spring" height="48" alt="Spring Boot" title="Spring Boot"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=maven" height="48" alt="Maven" title="Maven"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=gradle" height="48" alt="Gradle" title="Gradle"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=hibernate" height="48" alt="Hibernate" title="Hibernate"/> -->
+
+  <!-- Other -->
+  <!-- <img src="https://skillicons.dev/icons?i=firebase" height="48" alt="Firebase" title="Firebase"/> -->
 </p>
 
-**Data Layer**
+---
+
+### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL" title="MySQL"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB" title="MongoDB"/>
   <img src="https://skillicons.dev/icons?i=redis" height="48" alt="Redis" title="Redis"/>
+
+  <!-- Future -->
+  <!-- <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL" title="PostgreSQL"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=sqlite" height="48" alt="SQLite" title="SQLite"/> -->
 </p>
 
-**Tools & Infra**
+---
+
+### Cloud & DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker" title="Docker"/>
+
+  <!-- Future -->
+  <!-- <img src="https://skillicons.dev/icons?i=kubernetes" height="48" alt="Kubernetes" title="Kubernetes"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS" title="AWS"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=gcp" height="48" alt="Google Cloud" title="Google Cloud"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=azure" height="48" alt="Azure" title="Azure"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=nginx" height="48" alt="Nginx" title="Nginx"/> -->
+</p>
+
+---
+
+### Tools
+
+<p>
   <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" title="Git"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux" title="Linux"/>
+  <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" title="GitHub"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code" title="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux" title="Linux"/>
   <img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman" title="Postman"/>
+
+  <!-- Future -->
+  <!-- <img src="https://skillicons.dev/icons?i=idea" height="48" alt="IntelliJ IDEA" title="IntelliJ IDEA"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=eclipse" height="48" alt="Eclipse" title="Eclipse"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma" title="Figma"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=githubactions" height="48" alt="GitHub Actions" title="GitHub Actions"/> -->
+  <!-- <img src="https://skillicons.dev/icons?i=vercel" height="48" alt="Vercel" title="Vercel"/> -->
 </p>
 
 ---
